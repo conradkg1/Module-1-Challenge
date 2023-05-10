@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+Welcome to Horiseon's code refactoring project! Our goal is to improve the codebase for better functionality, accessibility, and search engine optimization. You will find that we have made several changes to the HTML and CSS files, including consolidating classes and adding semantic HTML elements. These changes will make it easier for users to navigate the site, as well as improve the site's ranking on search engines. We hope you enjoy the updated site and appreciate any feedback you have!
